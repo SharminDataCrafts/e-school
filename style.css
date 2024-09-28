@@ -1,0 +1,112 @@
+.container{
+
+    margin-bottom: 4rem;
+}
+
+.navbar-brand img{
+    height: 60px;
+    width: 200px;
+
+}
+
+.custom-btn{
+    background-color: #21B573;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 8px 20px;
+
+}
+
+
+.custom-btn:hover{
+    font-weight: 600;
+}
+
+.nav-item:hover{
+    font-weight: 600;
+}
+
+
+/* banner */
+.banner small{
+    color: #FD511A;
+}
+
+
+
+.top-section{
+    background-color: #F0FFF0;
+    padding-top: 2rem;
+}
+
+
+/* curriculum*/
+.curriculum img{
+    height: 10vh;
+} 
+
+
+
+.curr{
+    text-align: center;
+    padding: 40px;
+    background-color: #F8FFFB;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.curr h5 {
+    margin-top: 20px;
+}
+
+.curr:hover{
+    box-shadow: 2px 2px 10px lightgray;
+    background-color: white;
+}
+
+/* card */
+
+
+
+.card-footer{
+    border: none;
+    background-color: white;
+}
+
+.card-footer img {
+    width: 25%;
+}
+
+.card{
+    border: none;
+    box-shadow: 1px 1px 10px lightgray;
+}
+
+.card:hover{
+    border: 1px solid lightgray;
+}
+
+/* testimonial */
+.testimonial .row{
+    margin-top: 15px;
+}
+.testimonial img{
+    width: 35%;
+    padding-right: 30px;
+}
+
+/* footer */
+.footer{
+    padding: 50px 0 10px 0;
+    background-color: #282531;
+
+}
+
+.footer h5{
+    padding-left: 30px;
+}
+.footer li{
+    list-style: none;
+    cursor: pointer;
+}
